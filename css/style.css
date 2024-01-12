@@ -1,0 +1,214 @@
+.section{
+    display: inline-flex;
+    height: 1042px;
+    padding: 0px 0.5px 0px 175px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 175px;
+    
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+    height: 583px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    padding-left: 400px;
+}
+.register__sec{
+    margin-left: 275px;
+}
+.get{
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+.div1{
+    padding-top: 19.7px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+.div2{
+    padding-top: 25px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+.div3{
+    padding-top: 25px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+.name1{
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inp1{
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+.name2{
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inp2{
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+.name3{
+    color: #000; 
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inp3{
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+.policy__container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px 
+}
+.checkbox{
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+box-sizing border-box
+.policy{
+    font-size: 16px;
+    color: black;
+    padding-left: 20px;
+    display: flex;
+    padding-bottom: 64px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.terms{
+    text-decoration: underline;
+}
+.button{
+    border-radius: 10px;
+    border: 1px solid #3A5B22;
+    background: #3A5B22;
+    padding: 6px 185px;
+    margin-bottom: 45px;
+    display: block;
+    width: 404px;
+}
+.Signup{
+    margin: 0 auto;
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.or__p{
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    align-items: center;
+    padding-left: 190px; 
+    padding-top: 60px;
+    margin: 0 auto;
+}
+/* logo */
+.info__container2{
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 22px;
+}
+.contact__me{
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+.sen{
+    margin-right: 10px;
+}
+.contact__me1{
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    margin-left: 29px;
+}
+.p{
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 70px
+}
+.logi__in{
+    color: #0F3DDE;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 10px
+}
+.img{
+    width: 781.5px;
+    height: 1042px;
+    margin-left: 200px 
+}
